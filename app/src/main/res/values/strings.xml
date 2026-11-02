@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RechercheWikipedia</string>
+    <string name="rechercher_sur_wikipedia">Rechercher Sur Wikipedia</string>
+    <string name="rechercher">Rechercher</string>
+</resources>
